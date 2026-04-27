@@ -568,6 +568,12 @@ We officially thank the following contributors for their help in making this rep
 - [@Imasaikiran](https://github.com/Imasaikiran)
 - [@justmiroslav](https://github.com/justmiroslav)
 - [@unitedideas](https://github.com/unitedideas)
+- [@1bcMax](https://github.com/1bcMax)
+- [@avij1109](https://github.com/avij1109)
+- [@mark1ian](https://github.com/mark1ian)
+- [@MohamedAbdallah-14](https://github.com/MohamedAbdallah-14)
+- [@voidborne-d](https://github.com/voidborne-d)
+- [@xiaolai](https://github.com/xiaolai)
 
 ## Star History
 
